@@ -1,3 +1,4 @@
+> Note: @nodecfdi/utils-internals-baseconverter is now deprecated. Use [@nodecfdi/base-converter](https://github.com/nodecfdi/base-converter).
 # @nodecfdi/utils-internals-baseconverter
 
 [![Source Code][badge-source]][source]
